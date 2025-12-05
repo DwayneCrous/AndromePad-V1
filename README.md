@@ -36,8 +36,13 @@ This project includes the [OPL_Kicad_Library](https://github.com/Seeed-Studio/OP
 
 ## Bill of Materials (BOM)
 
-A Bill of Materials (BOM) is not yet generated for this project.
+To generate the Bill of Materials (BOM):
+
+1.  Open the `AndromePad V1.kicad_sch` file in KiCad's Eeschema.
+2.  Go to `Tools > Generate Bill of Materials...`.
+3.  You can use the default `bom_csv_grouped_by_value` script or a custom one.
 
 ## PCB Layout
 
-*(Image of the PCB layout will be here)*
+<!-- TODO: Replace with an actual image of the PCB layout -->
+![AndromePad V1 PCB Layout](images/AndromePad-V1-PCB-Layout.svg)

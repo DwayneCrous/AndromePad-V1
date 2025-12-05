@@ -45,4 +45,4 @@ To generate the Bill of Materials (BOM):
 ## PCB Layout
 
 <!-- TODO: Replace with an actual image of the PCB layout -->
-![AndromePad V1 PCB Layout](images/AndromePad-V1-PCB-Layout.svg)
+*(Image of the PCB layout will be here)*

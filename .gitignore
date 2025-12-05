@@ -18,3 +18,7 @@ AndromePad V1-backups/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Generated images
+images/
+!images/.gitkeep
